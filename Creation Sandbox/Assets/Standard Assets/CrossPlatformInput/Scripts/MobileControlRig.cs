@@ -1,3 +1,4 @@
+#pragma warning disable 618
 using System;
 #if UNITY_EDITOR
 using UnityEditor;

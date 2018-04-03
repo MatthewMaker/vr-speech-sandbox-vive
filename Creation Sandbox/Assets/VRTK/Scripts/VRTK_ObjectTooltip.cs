@@ -1,4 +1,5 @@
-﻿// Object Tooltip|Prefabs|0020
+﻿#pragma warning disable 618
+// Object Tooltip|Prefabs|0020
 namespace VRTK
 {
     using UnityEngine;

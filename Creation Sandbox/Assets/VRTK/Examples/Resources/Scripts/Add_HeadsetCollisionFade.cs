@@ -5,6 +5,7 @@
     [ExecuteInEditMode]
     public class Add_HeadsetCollisionFade : MonoBehaviour
     {
+		#pragma warning disable 414
         private bool initalised = false;
 #if UNITY_EDITOR
         private void Update()

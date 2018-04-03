@@ -1,4 +1,5 @@
-﻿//======= Copyright (c) Valve Corporation, All rights reserved. ===============
+﻿#pragma warning disable 618
+//======= Copyright (c) Valve Corporation, All rights reserved. ===============
 //
 // Purpose: Adds SteamVR render support to existing camera objects
 //
